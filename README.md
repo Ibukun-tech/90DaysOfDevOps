@@ -4,7 +4,7 @@
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
-This repository is used to document my journey on getting a better foundational knowledge of DevOps. I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st. 
+<h1>This repository is used to document my journey on getting a better foundational knowledge of DevOps. I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st.</h1> 
 
 The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources. 
 
